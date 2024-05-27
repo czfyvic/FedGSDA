@@ -8,8 +8,11 @@ In real-world scenarios, graph data is often dispersed across various institutio
 The experimental dataset includes Cora, BlogCatalog, Flickr and Facebook, you can download it yourself on the Internet.
 
 # Experimental environment
-+ torch
-+ 
++ torch == 2.2.2
++ pandas == 1.22.0
++ networkx == 3.1
++ matplotlib == 3.7.1
++ numpy == 1.22.0
 
 # The project structure
 
