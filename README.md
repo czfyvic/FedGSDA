@@ -14,8 +14,5 @@ The experimental dataset includes Cora, BlogCatalog, Flickr and Facebook, you ca
 + matplotlib == 3.7.1
 + numpy == 1.22.0
 
-# The project structure
-
-
 # Acknowledgement
 This work was sponsored by the National Key Research and Development Program of China (No. 2018YFB0704400), Key Program of Science and Technology of Yunnan Province (No. 202002AB080001-2, 202102AB080019-3), Key Research Project of Zhejiang Laboratory (No.2021PE0AC02), Key Project of Shanghai Zhangjiang National Independent Innovation Demonstration Zone(No. ZJ2021-ZD-006). The authors gratefully appreciate the anonymous reviewers for their valuable comments.
