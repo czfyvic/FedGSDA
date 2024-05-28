@@ -5,7 +5,7 @@ In real-world scenarios, graph data is often dispersed across various institutio
 ![The Framework of FedGSDA](./framework.png)
 
 # DataSet
-The experimental dataset includes Cora, BlogCatalog, Flickr and Facebook, you can download it yourself on the Internet.
+The experimental dataset includes Cora[1], BlogCatalog[2], Flickr[2] and Facebook[3], you can download it yourself on the Internet.
 
 # Experimental environment
 + torch == 2.2.2
@@ -14,5 +14,8 @@ The experimental dataset includes Cora, BlogCatalog, Flickr and Facebook, you ca
 + matplotlib == 3.7.1
 + numpy == 1.22.0
 
-# Acknowledgement
-This work was sponsored by the National Key Research and Development Program of China (No. 2018YFB0704400), Key Program of Science and Technology of Yunnan Province (No. 202002AB080001-2, 202102AB080019-3), Key Research Project of Zhejiang Laboratory (No.2021PE0AC02), Key Project of Shanghai Zhangjiang National Independent Innovation Demonstration Zone(No. ZJ2021-ZD-006). The authors gratefully appreciate the anonymous reviewers for their valuable comments.
+# Reference
+[1] A. K. McCallum, K. Nigam, J. Rennie, and K. Seymore, “Automating the construction of internet portals with machine learning,” Information Retrieval, vol. 3, pp. 127–163, 2000.
+[2] L. Tang and H. Liu, “Relational learning via latent social dimensions,” in Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining, 2009, pp. 817–826.
+[3] B. Viswanath, A. Mislove, M. Cha, and K. P. Gummadi, “On the evolution of user interaction in facebook,” in Proceedings of the 2nd ACM workshop on Online social networks, 2009, pp. 37–42.
+
